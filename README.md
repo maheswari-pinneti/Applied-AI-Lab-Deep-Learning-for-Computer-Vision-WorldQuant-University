@@ -17,7 +17,7 @@ Track and classify animals from camera trap images using binary and multiclass c
 
 ---
 
-## 🌾 Crop Disease Classification – Uganda
+## 🌾 Crop Disease Classification – Uganda Project - 2
 
 Detect and classify multiple plant diseases from leaf images using CNNs and transfer learning.
 
@@ -29,7 +29,7 @@ Detect and classify multiple plant diseases from leaf images using CNNs and tran
 
 ---
 
-## 🚦 Traffic Flow Monitoring – Dhaka, Bangladesh
+## 🚦 Traffic Flow Monitoring – Dhaka, Bangladesh Project - 3 
 
 Detect and track vehicles from live traffic videos using YOLOv8 and custom datasets.
 
@@ -42,7 +42,7 @@ Detect and track vehicles from live traffic videos using YOLOv8 and custom datas
 
 ---
 
-## 👤 Face Detection and Recognition
+## 👤 Face Detection and Recognition Project - 4
 
 Face recognition system using MTCNN and InceptionResNet with deployment via Flask.
 
@@ -57,7 +57,7 @@ Face recognition system using MTCNN and InceptionResNet with deployment via Flas
 
 ---
 
-## 🧬 Medical Image Generation (GANs)
+## 🧬 Medical Image Generation (GANs) Project - 5
 
 Generate synthetic medical images using Vanilla GANs and Medigan; deploy using Streamlit.
 
@@ -71,7 +71,7 @@ Generate synthetic medical images using Vanilla GANs and Medigan; deploy using S
 
 ---
 
-## 📱 Social Media Meme Generator – WQU Project
+## 📱 Social Media Meme Generator – WQU Project Project - 6
 
 Create viral memes using fine-tuned diffusion models with a simple interface.
 
